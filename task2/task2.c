@@ -1,10 +1,3 @@
-/*
- * task2.c
- *
- *  Created on: 27 дек. 2016 г.
- *      Author: Tanyushka
- */
-
 #include <stdio.h>
 #define TRUE 1
 
