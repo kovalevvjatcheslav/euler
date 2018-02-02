@@ -1,9 +1,3 @@
-/*
- * task1.c
- *
- *  Created on: 12 дек. 2016 г.
- *      Author: Tanyushka
- */
 #include <stdio.h>
 
 int main(void){
